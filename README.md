@@ -34,7 +34,7 @@
 ---
 
 ## Sobre Mim
-Escreva sobre você
+Sou estudante de pentest e desenvolvimento :)
 
 ---
 
